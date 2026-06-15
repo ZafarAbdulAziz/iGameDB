@@ -22,5 +22,17 @@
     ],
     "terms": true,
     "createdAt": "2025-12-21T14:11:08.150Z"
+  },
+  {
+    "id": 1766380937391,
+    "username": "zaidsid",
+    "email": "zaid@seecs.edu.pk",
+    "password": "Pass1234",
+    "gender": "Male",
+    "platforms": [
+      "PC"
+    ],
+    "terms": true,
+    "createdAt": "2025-12-22T05:22:17.391Z"
   }
 ]
